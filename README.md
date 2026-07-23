@@ -1,4 +1,4 @@
-# Clinical Research Portfolio 
+# Clinical Research Portfolio — Nayana Komalan
 
 > ⚠️ **This is a self-study training exercise, not an active clinical trial.** All documents in this repository are fictional and were created to demonstrate clinical research methodology skills. No participants are being recruited, and no real study is underway.
 >
@@ -14,8 +14,8 @@ The research question explored: **does a structured home-based walking programme
 
 | File | Description |
 |---|---|
-| [`01_PubMed_Search_and_Data_Extraction.docx`](./01_PubMed_Search_and_Data_Extraction.docx) | The full research methodology: PICO framework, Boolean/MeSH search strategy, screening log, and full-text data extraction |
-| [`02_PIL_Full_Document_SAMPLE.docx`](./02_PIL_Full_Document_SAMPLE.docx) | The complete mock Participant Information Leaflet (PIL) — covering study rationale, eligibility, risks, GDPR/data protection, withdrawal rights, and indemnity |
+| [`01_PubMed_Search_and_Data_Extraction.pdf`](./01_PubMed_Search_and_Data_Extraction.pdf) | The full research methodology: PICO framework, Boolean/MeSH search strategy, screening log, and full-text data extraction |
+| [`02_PIL_Full_Document_SAMPLE.pdf`](./02_PIL_Full_Document_SAMPLE.pdf) | The complete mock Participant Information Leaflet (PIL) — covering study rationale, eligibility, risks, GDPR/data protection, withdrawal rights, and indemnity |
 | [`03_PIL_Brochure_Summary_SAMPLE.pdf`](./03_PIL_Brochure_Summary_SAMPLE.pdf) | A condensed, visual summary of the mock Participant Information Leaflet |
 
 ## Methodology Summary
@@ -27,4 +27,4 @@ The research question explored: **does a structured home-based walking programme
 
 ## Contact
 
-[NAYANA KOMALAN] | [nayana.doctor@gmail.com] | [linkedin.com/in/nayanakomalan1997]
+Nayana Komalan | [nayana.doctor@gmail.com](mailto:nayana.doctor@gmail.com) | [linkedin.com/in/nayanakomalan1997](https://linkedin.com/in/nayanakomalan1997)
