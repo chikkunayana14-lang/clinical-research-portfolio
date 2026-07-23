@@ -14,9 +14,9 @@ The research question explored: **does a structured home-based walking programme
 
 | File | Description |
 |---|---|
-| [`01_PubMed_Search_and_Data_Extraction.pdf`](./01_PubMed_Search_and_Data_Extraction.pdf) | The full research methodology: PICO framework, Boolean/MeSH search strategy, screening log, and full-text data extraction |
-| [`02_PIL_Full_Document_SAMPLE.pdf`](./02_PIL_Full_Document_SAMPLE.pdf) | The complete mock Participant Information Leaflet (PIL) — covering study rationale, eligibility, risks, GDPR/data protection, withdrawal rights, and indemnity |
-| [`03_PIL_Brochure_Summary_SAMPLE.pdf`](./03_PIL_Brochure_Summary_SAMPLE.pdf.pdf) | A condensed, visual summary of the mock Participant Information Leaflet |
+* 📜 **[01_PubMed_Search_and_Data_Extraction.docx](./01_PubMed_Search_and_Data_Extraction.docx)** – Full evidence synthesis & PACES trial data extraction.
+* 📄 **[02_PIL_Full_Document_SAMPLE.docx](./02_PIL_Full_Document_SAMPLE.docx)** – Complete 12-section participant information leaflet.
+* 🎨 **[03_PIL_Brochure_Summary_SAMPLE.pdf](./03_PIL_Brochure_Summary_SAMPLE.pdf)** – Visual trifold brochure designed for patient recruitment.
 
 ## Methodology Summary
 
